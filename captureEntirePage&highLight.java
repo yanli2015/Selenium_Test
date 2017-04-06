@@ -25,8 +25,7 @@ public class CaptureEntirePageHighLight {
   @Test
   public void testCaptureEntirePageHighLight() throws Exception {
     driver.get(baseUrl + "/");
-    // ERROR: Caught exception [ERROR: Unsupported command [highlight | id=lst-ib | ]]
-    // ERROR: Caught exception [ERROR: Unsupported command [captureEntirePageScreenshot | C:\Users\binbin\Desktop\Test_YanLi\Selenium_Test\captureEntirePage&highLight.png | ]]
+    
   }
 
   @After
